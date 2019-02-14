@@ -1,0 +1,8 @@
+node_modules
+.idea/
+.classpath
+.project
+.settings/
+bin/
+module/
+package-lock.json
